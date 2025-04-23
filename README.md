@@ -2,8 +2,9 @@
 
 Hi there! My name is Diana Reyes, and this portfolio is part of my journey into data coordination. I come from a healthcare administration background and built this project to explore how data can improve patient outcomes in a healthcare setting.
 
-*Project Summary
 This project is a mock scenario using patient visit data to:
+
+*Project Summary
 - Track patient retention and drop-off reasons
 - Monitor changes in insurance status
 - Visualize monthly trends for reporting
