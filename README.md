@@ -19,6 +19,6 @@ This project is a mock scenario using patient visit data to:
 - `excel/`: Patient tracker with cleaned dataset
 - `charts/`: Visual reports for analysis and presentations
 
----
 
-📌 This is a learning-based project built with the intention to grow into a Data Coordinator role. Thanks for checking it out!
+
+*This is a learning-based project built with the intention to grow into a Data Coordinator role.* Thanks for checking it out!
